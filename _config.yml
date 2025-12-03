@@ -1,0 +1,13 @@
+# Digital Damage Website Configuration
+# GitHub Pages configuration
+
+title: Digital Damage
+description: Advanced Cybersecurity Tools & Authorized Testing Services
+theme: null
+exclude:
+  - README.md
+  - LICENSE
+  - .github/
+
+# GitHub Pages will use Jekyll by default
+# We're using plain HTML files, so we keep configuration minimal

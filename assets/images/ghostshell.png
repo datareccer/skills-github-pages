@@ -1,0 +1,9 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#1a1a1a"/>
+  <rect x="3" y="3" width="794" height="594" fill="#0a0a0a" stroke="#00ff88" stroke-width="3"/>
+  <text x="400" y="280" font-family="Arial, sans-serif" font-size="48" fill="#00ff88" text-anchor="middle" font-weight="bold">GhostShell</text>
+  <text x="400" y="340" font-family="Arial, sans-serif" font-size="32" fill="#00ff88" text-anchor="middle">Stealth Diagnostic Browser</text>
+  <circle cx="400" cy="450" r="60" fill="none" stroke="#00ff88" stroke-width="3" opacity="0.5"/>
+  <circle cx="400" cy="450" r="45" fill="none" stroke="#00ff88" stroke-width="2" opacity="0.7"/>
+  <circle cx="400" cy="450" r="30" fill="#00ff88" opacity="0.3"/>
+</svg>
