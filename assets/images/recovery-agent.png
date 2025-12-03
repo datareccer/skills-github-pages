@@ -1,0 +1,9 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#1a1a1a"/>
+  <rect x="3" y="3" width="794" height="594" fill="#0a0a0a" stroke="#00ff88" stroke-width="3"/>
+  <text x="400" y="260" font-family="Arial, sans-serif" font-size="44" fill="#00ff88" text-anchor="middle" font-weight="bold">Adaptive Recovery Agent</text>
+  <text x="400" y="320" font-family="Arial, sans-serif" font-size="28" fill="#00ff88" text-anchor="middle">Intelligent Cyber Diagnostics</text>
+  <path d="M 350 400 L 400 450 L 450 400" fill="none" stroke="#00ff88" stroke-width="3"/>
+  <circle cx="400" cy="480" r="50" fill="none" stroke="#00ff88" stroke-width="3" opacity="0.6"/>
+  <rect x="375" y="420" width="50" height="30" fill="none" stroke="#00ff88" stroke-width="2" opacity="0.4"/>
+</svg>
