@@ -1,0 +1,13 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#1a1a1a"/>
+  <rect x="3" y="3" width="794" height="594" fill="#0a0a0a" stroke="#00ff88" stroke-width="3"/>
+  <text x="400" y="240" font-family="Arial, sans-serif" font-size="56" fill="#00ff88" text-anchor="middle" font-weight="bold">AutoEX</text>
+  <text x="400" y="300" font-family="Arial, sans-serif" font-size="28" fill="#00ff88" text-anchor="middle">MacOS OBD-II Diagnostics</text>
+  <text x="400" y="340" font-family="Arial, sans-serif" font-size="24" fill="#00ff88" text-anchor="middle" opacity="0.8">DrewLinq Integration</text>
+  <rect x="300" y="400" width="200" height="120" rx="10" fill="none" stroke="#00ff88" stroke-width="3"/>
+  <circle cx="350" cy="440" r="15" fill="#00ff88" opacity="0.6"/>
+  <circle cx="400" cy="440" r="15" fill="#00ff88" opacity="0.6"/>
+  <circle cx="450" cy="440" r="15" fill="#00ff88" opacity="0.6"/>
+  <line x1="320" y1="480" x2="480" y2="480" stroke="#00ff88" stroke-width="2"/>
+  <line x1="320" y1="500" x2="460" y2="500" stroke="#00ff88" stroke-width="2"/>
+</svg>
