@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Digital Damage Technologies</title>
+    <link rel="stylesheet" href="assets/dd-style.css">
+</head>
+
+<body>
+
+<div class="top-banner">DIGITAL DAMAGE TECHNOLOGIES</div>
+
+<div class="hero">
+    <img src="assets/ghostshell-ninja.png" class="hero-logo">
+    <h1>Offensive Security • Diagnostics • Automation</h1>
+    <p>Elite Red Team tooling. Zero-bloat. Zero excuses. Built for operators who move fast and break barriers — not ethics.</p>
+
+    <a href="products/index.html" class="cta-button">ENTER THE SUITE</a>
+</div>
+
+<div class="section">
+    <h2>THE DIGITAL DAMAGE STACK</h2>
+
+    <div class="product-grid">
+        <a href="products/autoex.html" class="product-card">
+            <h3>AUTOEX</h3>
+            <p>Advanced Automotive Diagnostics & DrewLinq Integration</p>
+        </a>
+
+        <a href="products/ghostshell.html" class="product-card">
+            <h3>GHOST SHELL</h3>
+            <p>Stealth Browser · Recon Console · Operator Toolkit</p>
+        </a>
+
+        <a href="products/smtp-intruder.html" class="product-card">
+            <h3>SMTP INTRUDER</h3>
+            <p>Adaptive Protocol Recovery & Intelligent Failover Engine</p>
+        </a>
+
+        <a href="products/recovery-agent.html" class="product-card">
+            <h3>ADAPTIVE RECOVERY AGENT</h3>
+            <p>Automated System Auditor & Infrastructure Validator</p>
+        </a>
+
+        <a href="products/socialpilot.html" class="product-card">
+            <h3>GHOST SHELL SOCIAL PILOT</h3>
+            <p>FB-Safe Automation · Analytics · Velocity Content Engine</p>
+        </a>
+    </div>
+</div>
+
+<div class="section dark">
+    <h2>HIRE DIGITAL DAMAGE</h2>
+    <p>Device diagnostics. Systems auditing. Network analysis. Remote repair.  
+       **Red-Team compliant. No illegal activity. No account hacking. Ever.**</p>
+
+    <a href="hire-me.html" class="cta-button">REQUEST SERVICE</a>
+</div>
+
+<footer>
+    <p>© 2025 Digital Damage Technologies — Red Team Only</p>
+</footer>
+
+</body>
+</html>
